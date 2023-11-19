@@ -29,9 +29,11 @@ namespace Tyuiu.NosovaVD.Sprint5.Task1.V28.Lib
                 {
                     File.AppendAllText(path, strY + Environment.NewLine);
                 }
-                if (x != stopValue && (x - 0.7) == 0)
+                else if (x != stopValue && (x - 0.7) == 0)
                 {
-                    File.AppendAllText(path, "0" + Environment.NewLine);
+                    y = 0;
+                    strY = Convert.ToString(y);
+                    File.AppendAllText(path, strY + Environment.NewLine);
                 }
                 else
                 {
