@@ -20,7 +20,7 @@ namespace Tyuiu.NosovaVD.Sprint5.Task4.V29
             Console.WriteLine("* Выполнил: Носова Валерия Дмитриевна | ПКТб-23-2                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Дан файл С:\\DataSprint5\\InPutDataFileTask4V0.txt. Прочитать значение    *");
+            Console.WriteLine("* Дан файл С:\\DataSprint5\\InPutDataFileTask4V29.txt. Прочитать значение   *");
             Console.WriteLine("* из файла и подставить вместо Х в формуле. Вычислить значение по формуле *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
